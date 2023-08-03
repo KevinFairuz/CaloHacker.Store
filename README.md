@@ -1,9 +1,3 @@
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-store.git
-```
-
 ### Install packages
 
 ```shell
