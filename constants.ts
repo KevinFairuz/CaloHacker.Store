@@ -37,7 +37,7 @@ export const lists = [
     items: [
       {
         title: 'Wool Cashmere Jacket',
-        price: 180,
+        price: 120,
         rating: 4.7,
         ratingCount: 23,
         image: '/coat.png',
